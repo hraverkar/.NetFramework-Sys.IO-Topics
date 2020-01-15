@@ -1,0 +1,13 @@
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\bin\Debug\ExplicitlyusingStyle.exe.config
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\bin\Debug\ExplicitlyusingStyle.exe
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\bin\Debug\ExplicitlyusingStyle.pdb
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle.csprojAssemblyReference.cache
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\App.g.cs
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle_MarkupCompile.cache
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\MainWindow.baml
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle.g.resources
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle.Properties.Resources.resources
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle.csproj.GenerateResource.cache
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle.exe
+C:\Users\Harshal\source\repos\ExplicitlyusingStyle\ExplicitlyusingStyle\obj\Debug\ExplicitlyusingStyle.pdb
