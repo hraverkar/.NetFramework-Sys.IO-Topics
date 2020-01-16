@@ -1,0 +1,14 @@
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\bin\Debug\Event Trigger.exe.config
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\bin\Debug\Event Trigger.exe
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\bin\Debug\Event Trigger.pdb
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger.csprojAssemblyReference.cache
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\MainWindow.g.cs
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\App.g.cs
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger_MarkupCompile.cache
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger_MarkupCompile.lref
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\MainWindow.baml
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger.g.resources
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event_Trigger.Properties.Resources.resources
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger.csproj.GenerateResource.cache
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger.exe
+C:\Users\ravharsh1\source\repos\Event Trigger\Event Trigger\obj\Debug\Event Trigger.pdb
