@@ -1,0 +1,14 @@
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger.csprojAssemblyReference.cache
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\App.g.cs
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger_MarkupCompile.cache
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\bin\Debug\MultiTrigger.exe.config
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\bin\Debug\MultiTrigger.exe
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\bin\Debug\MultiTrigger.pdb
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MainWindow.g.cs
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger_MarkupCompile.lref
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MainWindow.baml
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger.g.resources
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger.Properties.Resources.resources
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger.csproj.GenerateResource.cache
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger.exe
+C:\Users\ravharsh1\source\repos\MultiTrigger\MultiTrigger\obj\Debug\MultiTrigger.pdb
