@@ -1,0 +1,14 @@
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\bin\Debug\RoutedEvent.exe.config
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\bin\Debug\RoutedEvent.exe
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\bin\Debug\RoutedEvent.pdb
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent.csprojAssemblyReference.cache
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\MainWindow.g.cs
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\App.g.cs
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent_MarkupCompile.cache
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent_MarkupCompile.lref
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\MainWindow.baml
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent.g.resources
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent.Properties.Resources.resources
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent.csproj.GenerateResource.cache
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent.exe
+C:\Users\ravharsh1\source\repos\RoutedEvent\RoutedEvent\obj\Debug\RoutedEvent.pdb

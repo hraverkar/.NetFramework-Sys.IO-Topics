@@ -1,0 +1,16 @@
+﻿<Window x:Class="RoutedEvent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RoutedEvent"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+  <StackPanel Margin="50">
+    <ComboBox Margin="50" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <ComboBoxItem>combobox Item1</ComboBoxItem>
+    <ComboBoxItem IsSelected="True">combobox Item2</ComboBoxItem>
+    <ComboBoxItem>combobox Item3</ComboBoxItem>
+    </ComboBox>
+  </StackPanel>
+</Window>
